@@ -4,8 +4,6 @@
 
 **- Contact : khkhvv@gmail.com**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d8bf366f-8097-486e-94ea-5bd9c7928cae/Untitled.png)
-
 # 프로필 (Profile)
 
 - 이름 : 김형석 (1990년 생)
