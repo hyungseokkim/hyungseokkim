@@ -18,7 +18,7 @@
 
 **- 사용언어/프레임워크 (일부 사용) :** Python(Django, Flask, pandas), Jenkins, Docker
 
-## 경력사항 (총 5년) :
+## 경력사항 (총 만 7년) :
 
 ### 위즈코어 기술연구소 (연구원)
 
@@ -36,7 +36,7 @@
     
     - 주요 역할 및 담당 : 프론트 개발, 백엔드 개발
     
-    - 사용 언어/기술 : Python(Flask), React(Typescript)- Redux, PostgreSQL
+    - 사용 언어/기술 : Python(FastAPI), React(Typescript)- Redux, PostgreSQL
     
     - 참여인원 : 4명
     
