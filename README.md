@@ -129,7 +129,7 @@
 
 국책과제 R&D 및 솔루션 개발업무
 
-**- 사용언어/프레임워크 :** JAVA SpringBoot , JavaScript/Typescript React, Python(Django/Flask), PostgreSQL
+**- 사용언어/프레임워크 :** JAVA SpringBoot , JavaScript/Typescript React, Python(Django/FastAPI), PostgreSQL
 
 **- 진행 프로젝트 :**
 
@@ -137,7 +137,7 @@
 - **공구 플랫폼 개발 (Springboot, React)**: 국책 과제로 진행된 공구 플랫폼을 구축하여 사내 머신러닝 플랫폼 개발에 대한 가능성을 보여줌.
 - **클라우드 스토리지, 이미지 레이블링 (Springboot, React, Django)** : 머신러닝 플랫폼 구축을 통하여 3rd party S3 (유사 S3)연동 스토리지 업로드/다운로드 구현 및 레이블링 툴 구축으로 머신러닝 학습을 위한 데이터 준비 시간을 단축하고 분석 효율성을 강화.
 
-**- 사용언어/프레임워크 :** **JAVA SpringBoot**, JavaScript/Typescript **React**, Python(Django/Flask), PostgreSQL
+**- 사용언어/프레임워크 :** **JAVA SpringBoot**, JavaScript/Typescript **React**, Python(Django/FastAPI), PostgreSQL
 
 **- 진행 프로젝트 :**
 
